@@ -1,5 +1,5 @@
 .env
 *.zip
-**/nc/
-**/tiff/
-**/geo/
+data/nc/
+data/tiff/
+data/geo/
